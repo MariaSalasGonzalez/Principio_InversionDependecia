@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aligonzalez/CLionProjects/Inversion_Dependecia/Escritor.h
+
+/Users/aligonzalez/CLionProjects/Inversion_Dependecia/GuardarArchivo.cpp
+GuardarArchivo.h
+/Users/aligonzalez/CLionProjects/Inversion_Dependecia/GuardarArchivo.h
+
+/Users/aligonzalez/CLionProjects/Inversion_Dependecia/GuardarArchivo.h
+iostream
+-
+fstream
+-
+Escritor.h
+/Users/aligonzalez/CLionProjects/Inversion_Dependecia/Escritor.h
+
